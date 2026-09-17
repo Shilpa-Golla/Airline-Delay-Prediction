@@ -1,8 +1,4 @@
 # Project – Airline Delay Analysis  
-**Course:** Machine Learning  
-**Student:** Shilpa  
-**Submission Date:** 06.10.2025  
-
 ---
 
 ##  Project Overview
